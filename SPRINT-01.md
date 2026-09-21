@@ -1,4 +1,4 @@
-# API-2SEM-ESTUDO-PIT
+# API-2 SEM-ESTUDO-PIT
 <!-- API 2 SEM -->
 <br />
 <p align="center">
