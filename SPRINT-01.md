@@ -6,7 +6,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=SPRINT-01&fontColor=FFFFFF&animation=FADING"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=EQUIPE04&fontColor=FFFFFF&animation=FADING"/>
 
 # Objetivo do MVP
 > Disponibilizar a primeira versão do banco de dados, possibilitando a visualização inicial dos principais indicadores essenciais.
