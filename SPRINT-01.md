@@ -1,12 +1,4 @@
-# API-2 SEMESTRE-ESTUDO-PIT
-<!-- API 2 SEM -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=EQUIPE04&fontColor=FFFFFF&animation=FADING"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=SPRINT-01&fontColor=FFFFFF&animation=FADING"/>
 
 # Objetivo do MVP
 >DESENVOLVER UM OBSERVATÓRIO PARA EXPLORAR O SETOR AUTOMOTIVO DE SÃO JOSÉ DOS CAMPOS TRAZENDO AS PRINCIPAIS TECNOLOGIAS, COMO:
