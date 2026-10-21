@@ -1,4 +1,3 @@
-```markdown
 # Aprendizado por Projeto Integrado (API)
 
 O Aprendizado por Projeto Integrador caracteriza-se como uma metodologia de ensino e aprendizagem que busca integrar teoria e prática, possibilitando que os estudantes atuem de forma colaborativa na elaboração de projetos multidisciplinares. Essa abordagem estimula a aplicação dos conhecimentos adquiridos ao longo da formação na solução de problemas reais (RPBL), além de promover validação externa e uma mentalidade ágil. Também favorece o desenvolvimento de habilidades como autonomia, iniciativa, cooperação e orientação para resultados, especialmente quando associada ao uso de metodologias ágeis de gestão, como o SCRUM.
@@ -24,11 +23,10 @@ Desenvolver um modelo de inteligência de mercado e painel interativo (Power BI)
 
 | Função | Nome | LinkedIn & GitHub |
 | :--- | :--- | :--- |
-| Product Owner | Rhuan Reis | - |
-| Scrum Master | Jacques Luz | - |
-| Desenvolvedor | Aaron Braz Chaves | - |
-| Desenvolvedor | Daniel Bedaque Quissak | - |
-| Desenvolvedor | Rhuan Reis | - |
+| Product Owner | Rhuan Reis | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-reis-1a31b7411) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](](https://github.com/rhuanr040-eng))     |
+| Scrum Master | Jacques Luz |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacques-luz) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Jacquesluz97)                 |
+| Desenvolvedor | Aaron Braz Chaves | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-chaves-3006593a2) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](](https://github.com/AaronBraz))               | |
+| Desenvolvedor | Daniel Bedaque Quissak | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bedaqui-ba7420326) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DanielBedaqui?tab=repositories)     | |
 | Desenvolvedor | Régis Campos Oliveira | - |
 | Desenvolvedor | Kevin  | - |
 
@@ -63,7 +61,7 @@ Desenvolver um modelo de inteligência de mercado e painel interativo (Power BI)
 - **Google Colab**
 - **Microsoft Excel**
 - **Microsoft Power BI**
-- **Python (Pandas, OpenPyXL)**
+- **Python**
 
 ---
 
@@ -71,8 +69,8 @@ Desenvolver um modelo de inteligência de mercado e painel interativo (Power BI)
 
 | Sprint | Previsão | Status | Histórico / Entregas |
 | :---: | :---: | :---: | :--- |
-| **01** | 04/05/2026 | Finalizado | Reorientação do escopo para o setor automotivo, levantamento da base da Receita Federal (485 registros) e do Parque Tecnológico (23 empresas estratégicas), aplicação de ETL com Python e estruturação inicial do modelo relacional no Power BI. |
-| **02** | 28/05/2026 | Finalizado | Categorização das organizações mapeadas (Automotivo direto, Mobilidade e veículos, Tecnologia aplicável à cadeia) e agrupamento por setores-chave. |
-| **03** | 17/06/2026 | Finalizado | Refinamento dos dados, consolidação final do painel em Power BI e fechamento dos documentos técnicos e de apresentação do projeto. |
+| **01** | 05/10/2026 | Finalizado | Reorientação do escopo para o setor automotivo, levantamento da base da Receita Federal (485 registros) e do Parque Tecnológico (23 empresas estratégicas), aplicação de ETL com Python e estruturação inicial do modelo relacional no Power BI. |
+| **02** | 26/10/2026 | Em andamento | Categorização das organizações mapeadas (Automotivo direto, Mobilidade e veículos, Tecnologia aplicável à cadeia) e agrupamento por setores-chave. |
+| **03** | xx/xx/2026 | - | Refinamento dos dados, consolidação final do painel em Power BI e fechamento dos documentos técnicos e de apresentação do projeto. |
 
 ```
