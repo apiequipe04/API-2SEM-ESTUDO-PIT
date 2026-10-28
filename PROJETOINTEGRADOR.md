@@ -70,7 +70,7 @@ Desenvolver um modelo de inteligência de mercado e painel interativo (Power BI)
 | Sprint | Previsão | Status | Histórico | Entregas |
 | :---: | :---: | :---: | :--- | :---
 | **01** | 05/10/2026 | Finalizado | Reorientação do escopo para o setor automotivo, levantamento da base da Receita Federal (485 registros) e do Parque Tecnológico (23 empresas estratégicas), aplicação de ETL com Python e estruturação inicial do modelo relacional no Power BI. |[MVP](/SPRINT-01.md)
-| **02** | 26/10/2026 | Em andamento | Categorização das organizações mapeadas (Automotivo direto, Mobilidade e veículos, Tecnologia aplicável à cadeia) e agrupamento por setores-chave. |
+| **02** | 26/10/2026 | Em andamento | Categorização das organizações mapeadas (Automotivo direto, Mobilidade e veículos, Tecnologia aplicável à cadeia) e agrupamento por setores-chave. | [MVP](/SPRINT-02.md)
 | **03** | xx/xx/2026 | - | Refinamento dos dados, consolidação final do painel em Power BI e fechamento dos documentos técnicos e de apresentação do projeto. |
 
 ```
