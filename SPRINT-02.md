@@ -1,17 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=025&text=SPRINT-02&fontColor=FFFFFF&animation=FADING"/>
 
 # Objetivos alcançados:
--Base de dados PIT e base de dados da Receita Federal;
+- Base de dados PIT e base de dados da Receita Federal;
 
--Unificação da base de dados;
+- Unificação da base de dados;
 
--Criação do painel executivo;
+- Criação do painel executivo;
 
--Criação do mapa afim de mapear os setores;
+- Criação do mapa afim de mapear os setores;
 
--Criação de painel PIT;
+- Criação de painel PIT;
 
--Refinamento das informações e layout da Dashboard.
+- Refinamento das informações e layout da Dashboard.
 
 # Eficiência na sprint 2
 >Dividimos tarefas com objetivo de otimizar a realização de tarefas, facilitando nosso processo de criação
@@ -43,15 +43,15 @@ Destaca bairros por com maior concentração de empresas e permite filtrar por c
 
 
 # Resultado Esperado
--Criação do painel de Empresas e segmentos;
+- Criação do painel de Empresas e segmentos;
 
--Refinamento e expansão do painel executivo;
+- Refinamento e expansão do painel executivo;
 
--Detalhamento aprofundado do mapa;
+- Detalhamento aprofundado do mapa;
 
--Novas funcionalidades;
+- Novas funcionalidades;
 
--Refinamento versão mobile;
+- Refinamento versão mobile;
 
 # Para voltar ao repositório principal, clique aqui:
 ## [PROJETO INTEGRADOR](/PROJETOINTEGRADOR.md)
